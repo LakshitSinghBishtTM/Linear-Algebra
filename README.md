@@ -26,7 +26,7 @@
 ## Index
 1. [Chapter 1](https://github.com/LakshitSinghBishtTM/Linear-Algebra/blob/main/Chapter1.pdf)
 2. [Chapter 2](https://github.com/LakshitSinghBishtTM/Linear-Algebra/blob/main/Chapter2.pdf)
-3. [Chapter 3]  
+3. [Chapter 3](https://github.com/LakshitSinghBishtTM/Linear-Algebra/blob/main/Chapter3.pdf)
 4. [Chapter 4]
 5. [Chapter 5]
 
